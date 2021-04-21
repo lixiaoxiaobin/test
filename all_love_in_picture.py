@@ -1,6 +1,6 @@
 from PIL import Image, ImageDraw, ImageFont
 
-font_size, text = 7, "I LIKE YOU!!"
+font_size, text = 7, "我喜欢你!"
 input_img_path = "./cat.jpeg"
 output_img_path = "./girl.png"
 
