@@ -4,3 +4,4 @@ if sys.getdefaultencoding() != 'utf-8':
     sys.setdefaultencoding('utf-8')
 
 print(sys.getdefaultencoding())
+print("测试merge")
